@@ -36,7 +36,7 @@ const mesaj = yas >= 18 ? "Yetişkin" : "Genç";
 
 ## 2. Fonksiyonlar
 
-Bir kod bloğunu bir kez yazıp defalarca çalıştırmaya yarar.
+Bir kod bloğunu bir kez yazıp defalarca çalıştırmaya yarar..
 
 ```js
 // Declaration → Eski yol
