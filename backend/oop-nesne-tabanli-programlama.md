@@ -105,7 +105,7 @@ Her nesne aynı metodu çağırıyor ama her biri kendi kuralına göre davranı
 
 Gereksiz detayı gizlemek, sadece ihtiyaç anında göster.
 
-**Senaryo:** 3 farklı ödeme yöntemi var. Sen sadece ödeme yapmak istiyorsun. Ödeme yönteminin şeklini değil — sadece "öde" demek yeterli.
+**Senaryo:** 3 farklı ödeme yöntemi var. Sen sadece ödeme yapmak istiyorsun. Ödeme yönteminin şeklini değil — sadece "öde" demek yeterli..
 
 ```python
 from abc import ABC, abstractmethod
