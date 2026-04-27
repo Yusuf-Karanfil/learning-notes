@@ -4,16 +4,16 @@
 
 ---
 
-## 1. Temeller
+## 1. Temellerr
 
-### Değişkenler
+### Değişkenlerr
 ```js
 var isim = "Yusuf";   // ❌ Block scope yok
 let yas = 25;          // ✅
 const sehir = "Ankara"; // ✅ Sabit değer
 ```
 
-### Veri Tipleri
+### Veri Tiplerii
 | Değer | Tip |
 |-------|-----|
 | "Yusuf" | string |
