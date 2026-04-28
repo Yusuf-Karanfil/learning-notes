@@ -3,6 +3,7 @@
 **Amaç:** JS Frameworklerine zemin hazırlamak, kod okuyabilmek.
 
 ---
+---
 
 ## 1. Temellerr
 
